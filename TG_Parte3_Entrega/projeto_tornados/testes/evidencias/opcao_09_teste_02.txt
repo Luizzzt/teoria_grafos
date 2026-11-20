@@ -1,0 +1,71 @@
+
+ROTAS ESTRATÉGICAS DE EVACUAÇÃO EM REGIÕES AFETADAS POR TORNADOS
+================================================================
+1. Ler dados do arquivo grafo.txt
+2. Gravar dados no arquivo grafo.txt
+3. Inserir vértice
+4. Inserir aresta
+5. Remover vértice
+6. Remover aresta
+7. Mostrar conteúdo do arquivo
+8. Mostrar grafo como lista de adjacência
+9. Apresentar conexidade e grafo reduzido
+10. Encerrar a aplicação
+Escolha uma opção:
+> 3
+Rótulo do novo vértice:
+> A
+Vértice 0 inserido com sucesso.
+
+ROTAS ESTRATÉGICAS DE EVACUAÇÃO EM REGIÕES AFETADAS POR TORNADOS
+================================================================
+1. Ler dados do arquivo grafo.txt
+2. Gravar dados no arquivo grafo.txt
+3. Inserir vértice
+4. Inserir aresta
+5. Remover vértice
+6. Remover aresta
+7. Mostrar conteúdo do arquivo
+8. Mostrar grafo como lista de adjacência
+9. Apresentar conexidade e grafo reduzido
+10. Encerrar a aplicação
+Escolha uma opção:
+> 3
+Rótulo do novo vértice:
+> B
+Vértice 1 inserido com sucesso.
+
+ROTAS ESTRATÉGICAS DE EVACUAÇÃO EM REGIÕES AFETADAS POR TORNADOS
+================================================================
+1. Ler dados do arquivo grafo.txt
+2. Gravar dados no arquivo grafo.txt
+3. Inserir vértice
+4. Inserir aresta
+5. Remover vértice
+6. Remover aresta
+7. Mostrar conteúdo do arquivo
+8. Mostrar grafo como lista de adjacência
+9. Apresentar conexidade e grafo reduzido
+10. Encerrar a aplicação
+Escolha uma opção:
+> 9
+O grafo é desconexo e possui 2 componentes.
+Componente 1: 0 (A)
+Componente 2: 1 (B)
+O grafo reduzido não se aplica ao tipo 2, que é não orientado.
+
+ROTAS ESTRATÉGICAS DE EVACUAÇÃO EM REGIÕES AFETADAS POR TORNADOS
+================================================================
+1. Ler dados do arquivo grafo.txt
+2. Gravar dados no arquivo grafo.txt
+3. Inserir vértice
+4. Inserir aresta
+5. Remover vértice
+6. Remover aresta
+7. Mostrar conteúdo do arquivo
+8. Mostrar grafo como lista de adjacência
+9. Apresentar conexidade e grafo reduzido
+10. Encerrar a aplicação
+Escolha uma opção:
+> 10
+Programa encerrado.

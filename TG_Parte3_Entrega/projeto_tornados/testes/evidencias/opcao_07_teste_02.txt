@@ -1,0 +1,33 @@
+
+ROTAS ESTRATÉGICAS DE EVACUAÇÃO EM REGIÕES AFETADAS POR TORNADOS
+================================================================
+1. Ler dados do arquivo grafo.txt
+2. Gravar dados no arquivo grafo.txt
+3. Inserir vértice
+4. Inserir aresta
+5. Remover vértice
+6. Remover aresta
+7. Mostrar conteúdo do arquivo
+8. Mostrar grafo como lista de adjacência
+9. Apresentar conexidade e grafo reduzido
+10. Encerrar a aplicação
+Escolha uma opção:
+> 7
+CONTEÚDO DE grafo.txt
+Erro: Não foi possível ler C:\Users\ALEXAN~1\AppData\Local\Temp\tmp_w1oubbd\grafo.txt: [Errno 2] No such file or directory: 'C:\\Users\\ALEXAN~1\\AppData\\Local\\Temp\\tmp_w1oubbd\\grafo.txt'
+
+ROTAS ESTRATÉGICAS DE EVACUAÇÃO EM REGIÕES AFETADAS POR TORNADOS
+================================================================
+1. Ler dados do arquivo grafo.txt
+2. Gravar dados no arquivo grafo.txt
+3. Inserir vértice
+4. Inserir aresta
+5. Remover vértice
+6. Remover aresta
+7. Mostrar conteúdo do arquivo
+8. Mostrar grafo como lista de adjacência
+9. Apresentar conexidade e grafo reduzido
+10. Encerrar a aplicação
+Escolha uma opção:
+> 10
+Programa encerrado.

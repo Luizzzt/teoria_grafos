@@ -1,0 +1,51 @@
+
+ROTAS ESTRATÉGICAS DE EVACUAÇÃO EM REGIÕES AFETADAS POR TORNADOS
+================================================================
+1. Ler dados do arquivo grafo.txt
+2. Gravar dados no arquivo grafo.txt
+3. Inserir vértice
+4. Inserir aresta
+5. Remover vértice
+6. Remover aresta
+7. Mostrar conteúdo do arquivo
+8. Mostrar grafo como lista de adjacência
+9. Apresentar conexidade e grafo reduzido
+10. Encerrar a aplicação
+Escolha uma opção:
+> 1
+Grafo carregado: 3 vértices e 2 arestas.
+
+ROTAS ESTRATÉGICAS DE EVACUAÇÃO EM REGIÕES AFETADAS POR TORNADOS
+================================================================
+1. Ler dados do arquivo grafo.txt
+2. Gravar dados no arquivo grafo.txt
+3. Inserir vértice
+4. Inserir aresta
+5. Remover vértice
+6. Remover aresta
+7. Mostrar conteúdo do arquivo
+8. Mostrar grafo como lista de adjacência
+9. Apresentar conexidade e grafo reduzido
+10. Encerrar a aplicação
+Escolha uma opção:
+> 8
+LISTA DE ADJACÊNCIA
+0 - Oklahoma City, OK: 1 (Tulsa, OK, peso 170)
+1 - Tulsa, OK: 0 (Oklahoma City, OK, peso 170), 2 (Wichita, KS, peso 285)
+2 - Wichita, KS: 1 (Tulsa, OK, peso 285)
+
+ROTAS ESTRATÉGICAS DE EVACUAÇÃO EM REGIÕES AFETADAS POR TORNADOS
+================================================================
+1. Ler dados do arquivo grafo.txt
+2. Gravar dados no arquivo grafo.txt
+3. Inserir vértice
+4. Inserir aresta
+5. Remover vértice
+6. Remover aresta
+7. Mostrar conteúdo do arquivo
+8. Mostrar grafo como lista de adjacência
+9. Apresentar conexidade e grafo reduzido
+10. Encerrar a aplicação
+Escolha uma opção:
+> 10
+Programa encerrado.

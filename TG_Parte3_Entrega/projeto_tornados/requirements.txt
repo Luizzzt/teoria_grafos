@@ -1,0 +1,5 @@
+# A aplicação principal usa somente a biblioteca padrão do Python.
+# Dependências para gerar o relatório e as capturas de evidência:
+python-docx>=1.2
+Pillow>=10
+reportlab>=4.4

@@ -1,0 +1,74 @@
+
+ROTAS ESTRATÉGICAS DE EVACUAÇÃO EM REGIÕES AFETADAS POR TORNADOS
+================================================================
+1. Ler dados do arquivo grafo.txt
+2. Gravar dados no arquivo grafo.txt
+3. Inserir vértice
+4. Inserir aresta
+5. Remover vértice
+6. Remover aresta
+7. Mostrar conteúdo do arquivo
+8. Mostrar grafo como lista de adjacência
+9. Apresentar conexidade e grafo reduzido
+10. Encerrar a aplicação
+Escolha uma opção:
+> 3
+Rótulo do novo vértice:
+> A
+Vértice 0 inserido com sucesso.
+
+ROTAS ESTRATÉGICAS DE EVACUAÇÃO EM REGIÕES AFETADAS POR TORNADOS
+================================================================
+1. Ler dados do arquivo grafo.txt
+2. Gravar dados no arquivo grafo.txt
+3. Inserir vértice
+4. Inserir aresta
+5. Remover vértice
+6. Remover aresta
+7. Mostrar conteúdo do arquivo
+8. Mostrar grafo como lista de adjacência
+9. Apresentar conexidade e grafo reduzido
+10. Encerrar a aplicação
+Escolha uma opção:
+> 3
+Rótulo do novo vértice:
+> B
+Vértice 1 inserido com sucesso.
+
+ROTAS ESTRATÉGICAS DE EVACUAÇÃO EM REGIÕES AFETADAS POR TORNADOS
+================================================================
+1. Ler dados do arquivo grafo.txt
+2. Gravar dados no arquivo grafo.txt
+3. Inserir vértice
+4. Inserir aresta
+5. Remover vértice
+6. Remover aresta
+7. Mostrar conteúdo do arquivo
+8. Mostrar grafo como lista de adjacência
+9. Apresentar conexidade e grafo reduzido
+10. Encerrar a aplicação
+Escolha uma opção:
+> 4
+Vértice de origem:
+> 0
+Vértice de destino:
+> 1
+Peso inteiro positivo:
+> 15
+Aresta inserida com sucesso.
+
+ROTAS ESTRATÉGICAS DE EVACUAÇÃO EM REGIÕES AFETADAS POR TORNADOS
+================================================================
+1. Ler dados do arquivo grafo.txt
+2. Gravar dados no arquivo grafo.txt
+3. Inserir vértice
+4. Inserir aresta
+5. Remover vértice
+6. Remover aresta
+7. Mostrar conteúdo do arquivo
+8. Mostrar grafo como lista de adjacência
+9. Apresentar conexidade e grafo reduzido
+10. Encerrar a aplicação
+Escolha uma opção:
+> 10
+Programa encerrado.
